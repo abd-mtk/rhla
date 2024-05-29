@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "556063048500",
+    "project_id": "rhla-81252",
+    "storage_bucket": "rhla-81252.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556063048500:android:82c9c9fd2a3162948edb61",
+        "android_client_info": {
+          "package_name": "com.rhla.rhla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556063048500-ltj1lkk46c5mkbl4oqo6a6buah905j51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZiTPLmAJQ8eFOGc6hvIYeuYy82gj0veQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556063048500-ltj1lkk46c5mkbl4oqo6a6buah905j51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
